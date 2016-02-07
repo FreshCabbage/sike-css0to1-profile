@@ -138,3 +138,51 @@ h1{
 .photos__List li img{
 	width: 100%;
 }
+.get-in-touch{
+	text-align: center;
+}
+.get-in-touch__list li{
+	padding: 20px;
+}
+.contact form{
+	
+	width: 40%;
+	margin: 0 auto;
+}
+.contact div{
+	position: relative;
+}
+.contact h2{
+	text-align: center;
+}
+.contact input,
+.contact textarea {
+	width: 100%;
+	
+	display: block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  margin:  8px 0;
+}
+
+.contact button {
+  border: none;
+  border-radius: 9999px;
+
+  background: #ffd524;
+
+  cursor: pointer;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.2);
+  color: #fff;
+  box-shadow: 0 3px 0 #daae1d;
+  width: 100%;
+  padding: 8px;
+}
+.al-left{
+	 position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  text-align: right;
+}
